@@ -1,0 +1,20 @@
+.menuitems{
+    text-align: center;
+    width: 300px;
+    overflow: hidden;
+    background-color: white;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+
+}
+.pic img{
+    size: 2rem;
+    object-fit: cover;
+    width: 300px;
+    height: 200px;
+}
+.price{
+    color: lightskyblue;
+    margin-top: auto;
+}

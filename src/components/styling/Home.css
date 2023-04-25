@@ -4,4 +4,8 @@
   flex-direction: column;
   align-items: center;
   margin-top: 60px;
+  background-image: url("../images/pexels-pixabay-265801.jpg");
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
