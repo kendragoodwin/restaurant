@@ -1,0 +1,5 @@
+[  {    "day": "Monday",    "openingHour": "9:00am",    "closingHour": "10:00pm"  },  {    "day": "Tuesday",    "openingHour": 
+"9:00am",    "closingHour": "10:00pm"  },  {    "day": "Wednesday",    "openingHour": "9:00am",    "closingHour": "10:00pm" 
+},  {    "day": "Thursday",    "openingHour": "9:00am",    "closingHour": "10:00pm"  },  {    "day": "Friday",    "openingHour": 
+"9:00am",    "closingHour": "11:00pm"  },  {    "day": "Saturday",    "openingHour": "10:00am",    "closingHour": "11:00pm"  }, 
+{    "day": "Sunday",    "openingHour": "Closed",    "closingHour": "Closed"  }]
